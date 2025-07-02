@@ -61,28 +61,28 @@
                         <li class="flex items-start">
                             <span class="text-xl mr-4 mt-1">💼</span>
                             <div>
-                                <h3 class="font-semibold text-stone-600">Career Opportunities</h3>
+                                <h3 class="font-semibold text-stone-800">Career Opportunities</h3>
                                 <p class="text-stone-400">Discover job openings and get hired by connecting with recruiters.</p>
                             </div>
                         </li>
                         <li class="flex items-start">
                             <span class="text-xl mr-4 mt-1">✨</span>
                             <div>
-                                <h3 class="font-semibold text-stone-600">Professional Branding</h3>
+                                <h3 class="font-semibold text-stone-800">Professional Branding</h3>
                                 <p class="text-stone-400">Showcase your skills, experience, and achievements to a global audience.</p>
                             </div>
                         </li>
                          <li class="flex items-start">
                             <span class="text-xl mr-4 mt-1">🤝</span>
                             <div>
-                                <h3 class="font-semibold text-stone-600">Strategic Networking</h3>
+                                <h3 class="font-semibold text-stone-800">Strategic Networking</h3>
                                 <p class="text-stone-400">Build valuable connections with industry leaders, peers, and mentors.</p>
                             </div>
                         </li>
                         <li class="flex items-start">
                             <span class="text-xl mr-4 mt-1">📚</span>
                             <div>
-                                <h3 class="font-semibold text-stone-600">Continuous Learning</h3>
+                                <h3 class="font-semibold text-stone-800">Continuous Learning</h3>
                                 <p class="text-stone-400">Access courses, articles, and expert insights to stay ahead in your field.</p>
                             </div>
                         </li>
