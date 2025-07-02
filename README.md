@@ -54,36 +54,36 @@
 
                 <div class="bg-white p-6 rounded-xl shadow-sm border border-stone-200">
                     <h2 class="text-2xl font-bold text-sky-700 mb-4">Why It Matters</h2>
-                     <p class="text-stone-700 mb-6">
+                     <p class="text-stone-600 mb-6">
                         This section outlines the key advantages of actively using LinkedIn. Understanding these benefits is the first step toward leveraging the platform effectively for your career growth.
                     </p>
                     <ul class="space-y-4">
                         <li class="flex items-start">
                             <span class="text-xl mr-4 mt-1">💼</span>
                             <div>
-                                <h3 class="font-semibold text-stone-800">Career Opportunities</h3>
-                                <p class="text-stone-600">Discover job openings and get hired by connecting with recruiters.</p>
+                                <h3 class="font-semibold text-stone-600">Career Opportunities</h3>
+                                <p class="text-stone-400">Discover job openings and get hired by connecting with recruiters.</p>
                             </div>
                         </li>
                         <li class="flex items-start">
                             <span class="text-xl mr-4 mt-1">✨</span>
                             <div>
-                                <h3 class="font-semibold text-stone-800">Professional Branding</h3>
-                                <p class="text-stone-600">Showcase your skills, experience, and achievements to a global audience.</p>
+                                <h3 class="font-semibold text-stone-600">Professional Branding</h3>
+                                <p class="text-stone-400">Showcase your skills, experience, and achievements to a global audience.</p>
                             </div>
                         </li>
                          <li class="flex items-start">
                             <span class="text-xl mr-4 mt-1">🤝</span>
                             <div>
-                                <h3 class="font-semibold text-stone-800">Strategic Networking</h3>
-                                <p class="text-stone-600">Build valuable connections with industry leaders, peers, and mentors.</p>
+                                <h3 class="font-semibold text-stone-600">Strategic Networking</h3>
+                                <p class="text-stone-400">Build valuable connections with industry leaders, peers, and mentors.</p>
                             </div>
                         </li>
                         <li class="flex items-start">
                             <span class="text-xl mr-4 mt-1">📚</span>
                             <div>
-                                <h3 class="font-semibold text-stone-800">Continuous Learning</h3>
-                                <p class="text-stone-600">Access courses, articles, and expert insights to stay ahead in your field.</p>
+                                <h3 class="font-semibold text-stone-600">Continuous Learning</h3>
+                                <p class="text-stone-400">Access courses, articles, and expert insights to stay ahead in your field.</p>
                             </div>
                         </li>
                     </ul>
